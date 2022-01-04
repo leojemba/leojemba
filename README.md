@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @leojemba
+- 👋 Hi, I’m @jembaleo
 - 👀 I’m interested in IT-SECURITY
 - 🌱 I’m currently learning CLOUD SECURITY...
-- 💞️ I’m looking to collaborate on CYBER SECURITY RELATED ISSUES
+- 💞️ I’m looking to collaborate on CYBER SECURITY RELATED TOPICS
 - 📫 How to reach me jembaleo@gmail.com
 
 <!---
